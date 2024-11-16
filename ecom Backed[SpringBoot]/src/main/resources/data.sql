@@ -1,0 +1,1 @@
+insert into Product(id,name,description,price)values (1,'Ashish','Hello how are you',22.22);
